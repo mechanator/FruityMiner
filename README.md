@@ -3,7 +3,7 @@ Nvidia and AMD miner for uPlexa (UPX) algo, might work with other algorithms.
 This version in releases was compiled with Visual Studio 2017 for Windows 10 X64.
 Supports NVIDIA FERMI CUDA 8 Only cards due to their old architecture.
 Such as the GTX 400 and 500 Series (580 and 590s rock!) The Tesla M2050/2070 series and older Quadro series that use the GF100 GF110 chipset.
-Basically I followed the same instructions similar to retor building XMR-STAK.
+Basically I followed the same instructions similar to retro building XMR-STAK.
 It's already built, just get it in the release section.
 
 Here's how to get it to work, use only with CUDA 8 cards on the rig. Mixing other cards will require a higher level driver and the miner app will not likely recognize them.
