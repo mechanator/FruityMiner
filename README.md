@@ -1,5 +1,11 @@
 # FruityMiner
+THIS IS FOR THE OLDER UPLEXA ALGORITHM, NOT UPLEXA2 AFTER THE FORK OF 4/29/2019 THIS VERSION WILL NOT WORK 
+FOR MINING UPLEXA.
+Sorry, will update when I get the new source from upsrtream.
+
 Nvidia and AMD miner for uPlexa (UPX) algo, might work with other algorithms.
+
+
 This version in releases was compiled with Visual Studio 2017 for Windows 10 X64.
 Supports NVIDIA FERMI CUDA 8 Only cards due to their old architecture.
 Such as the GTX 400 and 500 Series (580 and 590s rock!) The Tesla M2050/2070 series and older Quadro series that use the GF100 GF110 chipset.
